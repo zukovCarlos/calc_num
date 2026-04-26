@@ -1,0 +1,1 @@
+monotonica: mantem unico comportamento em todo o seu dominio
